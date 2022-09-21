@@ -24,3 +24,5 @@ yarn-error.log*
 
 #others
 fluxo_github_aux.txt
+src/testing.js
+.vscode/
